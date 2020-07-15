@@ -20,5 +20,5 @@ end
   rooms
 end
 
-def 
+def printer
 
