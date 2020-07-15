@@ -13,7 +13,7 @@ end
 end
 
 def assign_rooms (attendees)
-  room.assignments = []
+  rooms = []
   
-rooms.each_with_index do |name, room|
-  rooms
+rooms.each_with_index do |name, index|
+  rooms << ()
