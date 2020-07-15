@@ -12,7 +12,7 @@ end
   badges
 end
 
-def assign_rooms (rooms)
+def assign_rooms (attendees)
   rooms = []
   
 rooms.each_with_index do |name, room|
