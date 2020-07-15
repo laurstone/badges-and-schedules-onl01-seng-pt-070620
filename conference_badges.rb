@@ -27,8 +27,7 @@ end
   assign_rooms(room_assignments).each do |rooms|
   puts (rooms)
 end
-printer(attendees)
-end
+
 
 
 
