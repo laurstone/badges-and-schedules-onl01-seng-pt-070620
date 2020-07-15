@@ -11,3 +11,9 @@ def batch_badge_creator (attendees)
 end
   badges
 end
+
+def assign_rooms (rooms)
+  rooms = []
+  
+rooms.each_with_index do |name, room|
+  rooms
